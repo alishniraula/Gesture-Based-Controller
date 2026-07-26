@@ -1,7 +1,4 @@
 # Game-controller
-Here is a clean, comprehensive **`README.md`** file tailored specifically for your GitHub repository. It explains the project, setup instructions, gesture controls, and troubleshooting in a clear, professional layout.
-
----
 
 # 🖐️ AI Motion & Gesture Controller
 
