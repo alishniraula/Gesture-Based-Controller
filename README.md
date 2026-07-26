@@ -1,4 +1,4 @@
-# Game-controller
+# Gesture Based Controller
 
 # 🖐️ AI Motion & Gesture Controller
 
